@@ -15,21 +15,30 @@
 
 - Visual Studio Framework 4.0 or above.
 
-- MS SQL 2008R2 or above.
+
 
 ## Tech Stack
 
 - Visual Studio 2010 or above.
 
-- MS SQL 2008R2 or above.
+
   
 ## Language
 
-- ASP.NET
+- HTML
 
 - CSS
 
 - JavaScript
+
+## Website Link
+http://www.delteq.com.sg/
+
+## Screenshot
+![Screenshot (75)](https://user-images.githubusercontent.com/92842316/141063566-0741f4c0-2968-49e9-b75b-8da37b920b4d.png)
+
+
+
 
 
  
