@@ -25,7 +25,7 @@
   
 ## Language
 
-- ASP .NET
+- ASP.NET
 - HTML
 
 - CSS
