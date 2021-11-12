@@ -25,11 +25,13 @@
   
 ## Language
 
+- ASP .NET
 - HTML
 
 - CSS
 
 - JavaScript
+- Bootstrap
 
 ## Website Link
 http://www.delteq.com.sg/
